@@ -22,7 +22,7 @@ O principal objetivo deste repositório é organizar o aprendizado e experimento
 - Formatação de texto e uso de tags HTML. 🏷️
 - Estilização de páginas web com CSS, incluindo cores, fontes, layouts e mais. 🎨
 - Criação de formulários, tabelas e listas. 📝
-- Boas práticas para escrever código HTML semântico, acessível e para aplicar boas práticas de design com CSS. 👍
+- Boas práticas para escrever código HTML semântico, acessível e para aplicar boas práticas de design com CSS. 
 
 ## Como contribuir? 🤝
 
